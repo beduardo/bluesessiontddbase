@@ -1,0 +1,63 @@
+.idea
+
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.sln
+*.csproj
+*.csproj.user
+
+# Build results
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.log
+*.sql*
+*.sqlite
+*.pdb
+
+# Code analysis
+*.ruleset
+*.editorconfig
+
+# NuGet Packages
+*.nupkg
+packages/
+project.lock.json
+*.nuget.props
+*.nuget.targets
+
+# Entity Framework
+*.efmigrations.*
+
+# DotNetCore
+project.lock.json
+global.json
+appsettings.json
+appsettings.*.json
+
+# Azure Functions v2
+local.settings.json
+
+# Others
+*.swp
+*.bak
+*.tmp
+*.cache
+*.class
+
+# Mac OS files
+.DS_Store
+.AppleDouble
+.LSOverride
