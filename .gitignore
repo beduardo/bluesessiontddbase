@@ -36,11 +36,6 @@ project.lock.json
 # Entity Framework
 *.efmigrations.*
 
-# DotNetCore
-project.lock.json
-global.json
-appsettings.json
-appsettings.*.json
 
 # Azure Functions v2
 local.settings.json
